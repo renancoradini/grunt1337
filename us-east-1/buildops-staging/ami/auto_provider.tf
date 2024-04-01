@@ -3,7 +3,7 @@ provider "aws" {
   region = "us-east-1"
   default_tags {
     tags = {
-      "Env": "envteste1"
+      "Env": "staging"
 "Region": "us-east-1"
 "managed_by": "RenanCoradini/Terraform/Terragrunt"
 
